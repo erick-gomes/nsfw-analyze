@@ -27,6 +27,7 @@ $ cd nsfw-analyze && npm install
 $ node index.js
 
 # Concluindo, use o qrcode gerado na tela para conectar ao whatsapp web.
+# Observações: No linux precisa ter o ffmpeg instalado
 ```
 
 ### Requisitos para Windows: 
