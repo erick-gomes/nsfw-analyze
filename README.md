@@ -34,7 +34,7 @@ $ node index.js
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/brlouco/nsfw-analyze
+$ git clone https://github.com/erick-gomes/nsfw-analyze
 
 
 # Instale o nodejs
