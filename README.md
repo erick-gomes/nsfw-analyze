@@ -12,7 +12,7 @@
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ericklgomes/nsfw-analyze
+$ git clone https://github.com/erick-gomes/nsfw-analyze
 
 
 # Instale o nodejs
